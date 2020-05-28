@@ -1,0 +1,105 @@
+body
+{
+    font-size: 1.0em;
+    font-family: Trebuchet MS, Serif;
+    background-color: #F0F8FF;
+    color: #4169E1;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    padding-left: 20px;	
+    padding-right: 10px;
+}
+
+.formListe {
+    background-color: black;
+    color: black;
+    font-size: 1.9em;
+}
+
+.navbar {
+    position: top;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    background-color: #6495ED;
+    color: #F0FFFF;
+    opacity: 0.8;
+
+
+}
+
+.navbar-brand {
+    color:#F0FFFF;
+    font-size: 1.6em;
+    padding-top: 30px;
+    font-weight: bolder;
+    font-family: Trebuchet MS, Serif;
+}
+
+.navbar-header {
+    background-color: #6495ED;
+    color: #F0FFFF;
+}
+
+.navbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: #6495ED;
+
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.langues {
+    background-color: #6495ED;
+}
+h1
+{
+    color: #AFEEEE;
+    background-color: blue;
+    font-size: 1.3em;
+    width: 75%;
+    text-align: center;
+
+}
+
+.Avatar
+{
+    float: right;
+    width: 120px;
+    height: 150px;
+    background-color: #6495ED;
+
+}
+.Clearleft
+{
+    clear: right;
+    margin-top: 200px;
+}
+.Coordonnées
+{
+    border-left: 3px blue outset;
+    box-shadow: 0px 2px 2px #00CED1	;
+    font-size: 0.8em;
+    padding-left: 12px;
+    padding-bottom: 8px;
+    background-color: #6495ED;
+}
+
+h2
+{
+    border-left: 3px blue outset;
+    box-shadow: 0px 2px 2px #00CED1	;
+    font-size: 1.2em;
+    padding-left: 12px;
+    padding-bottom: 8px;
+}
+.PAncrage
+{
+    font-size: 0.7em;
+}
