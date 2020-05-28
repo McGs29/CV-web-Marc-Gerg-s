@@ -32,6 +32,8 @@ body
     color:#F0FFFF;
     font-size: 1.6em;
     padding-top: 30px;
+    font-weight: bolder;
+    font-family: Trebuchet MS, Serif;
 }
 
 .navbar-header {
@@ -100,10 +102,4 @@ h2
 .PAncrage
 {
     font-size: 0.7em;
-}
-
-body
-{
-    background-color: #F0F8FF; 
-
 }
