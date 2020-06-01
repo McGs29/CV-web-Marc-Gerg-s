@@ -103,3 +103,25 @@ h2
 {
     font-size: 0.9em;
 }
+
+#bouton{
+    
+color: white;
+background-color:  #6495ED;
+display: block;
+margin: auto;
+
+
+}
+
+#bouton:hover{
+    background-color: blue;
+    border-radius: 15px;
+
+}
+
+#TxtBouton{
+    color: cornsilk;
+    font-family: Trebuchet MS, Serif;
+    
+}
